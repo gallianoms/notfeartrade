@@ -1,2 +1,1 @@
-# tradingphobia
 # notfeartrade
